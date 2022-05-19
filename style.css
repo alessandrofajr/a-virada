@@ -405,6 +405,7 @@ html,body{
 
     .halftime h4{
     margin-bottom: -50px;
+    font-weight: 500;
     }
     
     .half{
@@ -499,4 +500,9 @@ html,body{
         margin-right: 15px;
     }
     
+    .footer{
+        background-color: #F2E5CB;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
 }
